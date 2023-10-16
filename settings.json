@@ -1,0 +1,25 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "debug": false
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": true,
+    "router": {
+      "autoRestoreRemote": false,
+      "backtrack": true,
+      "destroyOnHistoryBack": false,
+      "gcOnUnload": false,
+      "lazyCreate": false,
+      "lazyDestroy": false,
+      "reuseInstance": true,
+      "storeSameHash": true,
+      "updateHash": true
+    }
+  }
+}

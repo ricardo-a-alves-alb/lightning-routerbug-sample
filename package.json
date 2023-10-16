@@ -1,0 +1,15 @@
+{
+  "name": "com.alticelabs.routerbugsample",
+  "description": "RouterBugSample",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3"
+  }
+}
